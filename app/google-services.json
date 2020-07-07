@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217049985755",
+    "firebase_url": "https://labbooking-d0cd6.firebaseio.com",
+    "project_id": "labbooking-d0cd6",
+    "storage_bucket": "labbooking-d0cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217049985755:android:7b9a2a3f5ef2c876d2d2fe",
+        "android_client_info": {
+          "package_name": "com.example.labbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217049985755-filo8e0678a6a0fnp77qlsltb35bjgij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWuC9Nzwnj3ItkZDkKGmtfRsVsHaFhul4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217049985755-filo8e0678a6a0fnp77qlsltb35bjgij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
